@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+env
+app.py
+movie_list.pkl
+similarity.pkl
